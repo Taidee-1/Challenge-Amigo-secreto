@@ -1,1 +1,2 @@
 # Challenge-Amigo-secreto
+--Este proyecto consiste en una aplicación que permite a los usuarios agregar los nombres de sus amigos a una lista, realizar un sorteo aleatorio y revelar quién es su "Amigo Secreto". Los usuarios pueden añadir nombres mediante un campo de texto y un botón "Añadir", ver la lista de nombres y, finalmente, hacer clic en "Sortear Amigo" para obtener un nombre aleatorio que será mostrado en pantalla.
